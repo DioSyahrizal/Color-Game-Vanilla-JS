@@ -6,6 +6,7 @@
 ![Screenshot](image.png)
 
 - In easy mode you will choose the 3 box to match the color
+
 ![Screenshot](image2.png)
 
 
