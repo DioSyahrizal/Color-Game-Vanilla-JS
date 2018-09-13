@@ -1,11 +1,11 @@
 # Color Game
-### This game is build in pure JS with manipulating the document
-### Thanks to Colt Steele for the tutorial
+- This game is build in pure JS with manipulating the document
 
-### In hard mode you will choose the 6 box to match the color
+- In hard mode you will choose the 6 box to match the color
+
 ![Screenshot](image.png)
 
-### In easy mode you will choose the 3 box to match the color
+- In easy mode you will choose the 3 box to match the color
 ![Screenshot](image2.png)
 
 
